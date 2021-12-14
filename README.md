@@ -1,7 +1,5 @@
 # ML_AIRDROID_REMOTE
 
 <p align="center">
-
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/ZDp_j0rGGZs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-  
+[![ML_AIRDROID_REMOTE](https://img.youtube.com/vi/ZDp_j0rGGZs/0.jpg)](https://www.youtube.com/watch?v=ZDp_j0rGGZs)
 </p>
